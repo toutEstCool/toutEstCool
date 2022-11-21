@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, welcome to The Frontend profile 👋
+
+Hello i am a teacher 🦸🏿‍♂️, content creators 🎥 and software engineer 🥷🏾
 
 <!--
 **toutEstCool/toutEstCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
