@@ -1,6 +1,6 @@
 <a href="https://github.com/toutestcool">
   <img src="https://i.pinimg.com/564x/70/6f/23/706f2322a5bd5b7bbe871ed74adec008.jpg" alt="
-      The Frontend" align="center"/>
+      The Frontend" align="center" width="100%"/>
 </a>
 
 
