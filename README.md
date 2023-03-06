@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm The Frontend</h1>
 <h3 align="center">A passionate full stack developer from Kyrgyzstan 🇰🇬</h3>
+<a href="https://app.daily.dev/Qwerti_Night"><img src="https://api.daily.dev/devcards/8ea0aa30424441c292099f64fe679d4e.png?r=628" width="400" alt="Danil Panarin's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toutestcool&label=Profile%20views&color=0e75b6&style=flat" alt="toutestcool" /> </p>
 
