@@ -1,8 +1,3 @@
-<a href="https://github.com/toutestcool">
-  <img src="https://i.pinimg.com/564x/9d/1b/0f/9d1b0fc94c2c889f40b5f485b26ff262.jpg" alt="The Frontend" align="center" width="100%"/>
-</a>
-
-
 <h1 align="left">🙏 Hi, there! I'm <em>Danil Panarin</em></h1>
 
 <div>
